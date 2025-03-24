@@ -12,6 +12,8 @@
 <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=lil-de7k&theme=shadow-purple&hide_border=true&card_width=800&card_height=200" alt="GitHub Streak" />
 </a>
+
+<img src="https://raw.githubusercontent.com/lil-de7k/lil-de7k/output/snake.svg" alt="Snake animation" width="1200" height="200" />
   
   <h3 align="left"><em>Technologies</em></h3>
 <div align="left">
