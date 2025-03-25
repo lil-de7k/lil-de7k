@@ -9,9 +9,6 @@
 <h5 align="left">I'm a Computer Science student from Gharbia, Egypt, passionate about Web Development and Machine Learning. Since my first year at university, I’ve been fully self-taught advancing my skills through disciplined learning, structured time management, and deep research, all without paid courses or mentorship. I thrive on problem-solving and continuous growth in the ever-evolving tech landscape.</h5>
 
 <div align="center">
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=lil-de7k&theme=shadow-purple&hide_border=true&card_width=800&card_height=200" alt="GitHub Streak" />
-</a>
 
 <img src="https://raw.githubusercontent.com/lil-de7k/lil-de7k/output/snake.svg" alt="Snake animation" width="1200" height="200" />
   
