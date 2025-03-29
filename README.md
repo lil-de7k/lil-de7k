@@ -31,6 +31,7 @@
 <a href="#"><img src="https://img.shields.io/static/v1?message=Firebase&logo=firebase&label=&color=FFCA28&logoColor=black&labelColor=&style=for-the-badge" height="23" alt="Firebase logo" /></a>
 <a href="#"><img src="https://img.shields.io/static/v1?message=TailwindCSS&logo=tailwindcss&label=&color=06B6D4&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="TailwindCSS logo" /></a>
 <a href="#"><img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=7952B3&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Bootstrap logo" /></a>
+<a href="#"><img src="https://img.shields.io/static/v1?message=JQuery&logo=jquery&label=&color=08359b&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Bootstrap logo" /></a>
 <a href="#"><img src="https://img.shields.io/static/v1?message=Material-UI&logo=mui&label=&color=007FFF&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Material-UI logo" /></a>
 <a href="#"><img src="https://img.shields.io/static/v1?message=Ant Design&logo=antdesign&label=&color=0170FE&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Ant Design logo" /></a>
 <a href="#"><img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Docker logo" /></a>
@@ -39,5 +40,8 @@
 <a href="#"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="GitHub logo" /></a>
 <a href="#"><img src="https://img.shields.io/static/v1?message=Vercel&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Vercel logo" /></a>
 <a href="#"><img src="https://img.shields.io/static/v1?message=Netlify&logo=netlify&label=&color=00C7B7&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Netlify logo" /></a>
+<a href="#"><img src="https://img.shields.io/static/v1?message=Jest&logo=jest&label=&color=7411cb&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Netlify logo" /></a>
+<a href="#"><img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=4305c1&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Netlify logo" /></a>
+<a href="#"><img src="https://img.shields.io/static/v1?message=Laravel&logo=laravel&label=&color=cf3a07&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Netlify logo" /></a>
 <a href="#"><img src="https://img.shields.io/static/v1?message=Heroku&logo=heroku&label=&color=430098&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Heroku logo" /></a>
 </div>
