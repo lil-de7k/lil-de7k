@@ -42,7 +42,5 @@
 <a href="#"><img src="https://img.shields.io/static/v1?message=Vercel&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Vercel logo" /></a>
 <a href="#"><img src="https://img.shields.io/static/v1?message=Netlify&logo=netlify&label=&color=00C7B7&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Netlify logo" /></a>
 <a href="#"><img src="https://img.shields.io/static/v1?message=Jest&logo=jest&label=&color=7411cb&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Netlify logo" /></a>
-<a href="#"><img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=4305c1&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Netlify logo" /></a>
-<a href="#"><img src="https://img.shields.io/static/v1?message=Laravel&logo=laravel&label=&color=cf3a07&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Netlify logo" /></a>
 <a href="#"><img src="https://img.shields.io/static/v1?message=Heroku&logo=heroku&label=&color=430098&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Heroku logo" /></a>
 </div>
